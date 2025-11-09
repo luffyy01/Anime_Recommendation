@@ -51,7 +51,7 @@ The easiest way to see this site is to [**view it live on GitHub Pages!**](https
 
 ---
 
-## 🙏 Acknowledgment
+## 👉 Acknowledgment
 
 This was a learning project, so a huge thank you to all the online tutorials and docs that helped me figure out the tricky parts (looking at you, dropdown menus and sticky navs!).
 
