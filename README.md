@@ -33,7 +33,7 @@ This project is a testament to what you can do with the basics. No frameworks, n
 
 ## 🚀 How to View
 
-The easiest way to see this site is to [**view it live on GitHub Pages!**](https://YOUR-USERNAME.github.io/my-anime-picks/)
+The easiest way to see this site is to [**view it live on VERCEL!**](https://anime-recommendation-1.vercel.app/)
 
 *(To set this up, just go to your repo's "Settings" tab, click "Pages" on the left, and select your `main` branch as the source.)*
 
